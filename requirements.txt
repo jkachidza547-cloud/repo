@@ -1,7 +1,7 @@
-streamlit==1.40.0
-sqlalchemy==2.0.35
-bcrypt==4.2.0
-qrcode[pil]==7.4.2
-pandas==2.2.3
-plotly==5.24.1
-psycopg[binary]==3.2.2
+streamlit
+sqlalchemy
+bcrypt
+qrcode[pil]
+pandas
+plotly
+psycopg[binary]
